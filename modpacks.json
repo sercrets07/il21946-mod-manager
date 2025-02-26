@@ -1,0 +1,17 @@
+{
+    "Test File": {
+        "url": "https://cloud.il2rrr.com/s/9wJGTCw8KHn3xGk/download",
+        "filename": "testfile.txt",
+        "type": "Aircraft"
+    },
+    "BAT 4.0": {
+        "url": "https://yourserver.com/BAT4.zip/download",
+        "filename": "BAT4.zip",
+        "type": "Maps"
+    },
+    "DingusBingus": {
+        "url": "https://cloud.il2rrr.com/s/gtA93LNFZNnHMKq/download",
+        "filename": "dingusbingus",
+        "type": "Objects"
+    }
+}
