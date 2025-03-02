@@ -1,0 +1,178 @@
+[
+    {
+        "name": "Sky Fortress",
+        "URL": "https://mods.example.com/sky_fortress/download",
+        "type": [
+            "Object",
+            "Aircraft",
+            "Map"
+        ],
+        "ID": "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+    },
+    {
+        "name": "Desert Storm",
+        "URL": "https://mods.example.com/desert_storm/download",
+        "type": [
+            "Object",
+            "Aircraft",
+            "Map"
+        ],
+        "ID": "35a1f1c3-8f71-4dc7-9b13-1c27e3e53e14"
+    },
+    {
+        "name": "Night Raider",
+        "URL": "https://mods.example.com/night_raider/download",
+        "type": [
+            "Object",
+            "Aircraft",
+            "Map"
+        ],
+        "ID": "84b6a5f0-412d-4f9a-b69c-2a67e647d0f9"
+    },
+    {
+        "name": "Ocean Guardian",
+        "URL": "https://mods.example.com/ocean_guardian/download",
+        "type": [
+            "Object",
+            "Aircraft",
+            "Map"
+        ],
+        "ID": "db1c8e42-9e7f-4dc0-9df1-9fd3e34c891a"
+    },
+    {
+        "name": "Battle Falcon",
+        "URL": "https://mods.example.com/battle_falcon/download",
+        "type": [
+            "Object",
+            "Aircraft",
+            "Map"
+        ],
+        "ID": "7c29d68d-4239-49b5-b1f8-cb88238d9b36"
+    },
+    {
+        "name": "Red Baron",
+        "URL": "https://mods.example.com/red_baron/download",
+        "type": [
+            "Object",
+            "Aircraft",
+            "Map"
+        ],
+        "ID": "69d2f5b0-5807-4d91-bb06-58a3a79e17b4"
+    },
+    {
+        "name": "Jungle Phantom",
+        "URL": "https://mods.example.com/jungle_phantom/download",
+        "type": [
+            "Object",
+            "Aircraft",
+            "Map"
+        ],
+        "ID": "5b90c8b1-1c6d-4df4-99f7-79dc2f22e5a8"
+    },
+    {
+        "name": "Storm Chaser",
+        "URL": "https://mods.example.com/storm_chaser/download",
+        "type": [
+            "Object",
+            "Aircraft",
+            "Map"
+        ],
+        "ID": "c8579a54-b2a5-4c2a-88f3-e3e2c4bca779"
+    },
+    {
+        "name": "Eagle Eye",
+        "URL": "https://mods.example.com/eagle_eye/download",
+        "type": [
+            "Object",
+            "Aircraft",
+            "Map"
+        ],
+        "ID": "47f3b9e6-3b5a-499d-9a26-23c59e7ff8b5"
+    },
+    {
+        "name": "Thunder Strike",
+        "URL": "https://mods.example.com/thunder_strike/download",
+        "type": [
+            "Object",
+            "Aircraft",
+            "Map"
+        ],
+        "ID": "b5d8c634-80a7-4ec7-88e0-9f6d478a2f36"
+    },
+    {
+        "name": "Frostbite",
+        "URL": "https://mods.example.com/frostbite/download",
+        "type": [
+            "Object",
+            "Aircraft",
+            "Map"
+        ],
+        "ID": "a1b2c3d4-5678-9101-1121-314151617181"
+    },
+    {
+        "name": "Shadow Lancer",
+        "URL": "https://mods.example.com/shadow_lancer/download",
+        "type": [
+            "Object",
+            "Aircraft",
+            "Map"
+        ],
+        "ID": "19202122-2324-2526-2728-293031323334"
+    },
+    {
+        "name": "Inferno Blaze",
+        "URL": "https://mods.example.com/inferno_blaze/download",
+        "type": [
+            "Object",
+            "Aircraft",
+            "Map"
+        ],
+        "ID": "35363738-3940-4142-4344-454647484950"
+    },
+    {
+        "name": "Night Stalker",
+        "URL": "https://mods.example.com/night_stalker/download",
+        "type": [
+            "Object",
+            "Aircraft",
+            "Map"
+        ],
+        "ID": "51525354-5556-5758-5960-616263646566"
+    },
+    {
+        "name": "Solar Flare",
+        "URL": "https://mods.example.com/solar_flare/download",
+        "type": [
+            "Object",
+            "Aircraft",
+            "Map"
+        ],
+        "ID": "67686970-7172-7374-7576-777879808182"
+    },
+    {
+        "name": "dingusbingus45",
+        "URL": "something/download",
+        "type": [
+            "Object",
+            "Aircraft",
+            "Map"
+        ],
+        "ID": "6e1795ac-261a-4695-ba25-93097aaffe59"
+    },
+    {
+        "name": "thus",
+        "URL": "somethingsomething/download",
+        "type": [
+            "Object",
+            "Aircraft",
+            "Map"
+        ],
+        "ID": "6e1795ac-261a-4695-ba25-93097aaffe59"
+    },
+    {
+        "name": "sdfg",
+        "URL": "345/download",
+        "type": "Object",
+        "ID": "6e1795ac-261a-4695-ba25-93097aaffe59"
+    }
+]
